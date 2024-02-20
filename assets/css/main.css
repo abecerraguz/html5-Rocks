@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;600&display=swap');
 
 :root {
-    --color-acentuacion: #F2F221;
+    --color-acentuacion: #EDAA25;
     --color-texto-primario: #ffffff;
-    --color-fondo-body: #1e31cf;
+    --color-fondo-body: #0099DD;
     --color-fondo-body-oscuro: #0000005F;
     --color-fondo-seccion: #2d2d2d;
-    --color-icono: #ffffff;
-    --color-fondo-footer: #da1e1e;
+    --color-icono: #FF9933;
+    --color-fondo-footer: #FF5F5D;
 }
 
 html {
